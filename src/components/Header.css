@@ -1,0 +1,11 @@
+.navbar {
+    background-color: #e4d2d2;
+  }
+  .navbar-brand{
+    font-weight: bold;
+    color: #795b5b !important;
+  }
+  .navbar-nav .nav-link {
+    font-weight: bold;
+    color: #795b5b !important;
+  }

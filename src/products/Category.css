@@ -1,0 +1,18 @@
+.list-group {
+  margin-top: 20px;
+  width: 20%;
+}
+
+.list-group-item {
+  background-color: transparent;
+  color: #000;
+  cursor: pointer;
+  border: 1px solid #ccc !important ;
+  border-radius: 5px;
+  padding: 8px;
+}
+
+.list-group-item.active {
+  background-color: #e0bfbf !important ;
+  border-color: #dfc7c7;
+}

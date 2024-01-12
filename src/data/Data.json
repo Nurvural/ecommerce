@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "name": "Gömlek",
+    "description": "Beyaz gömlek",
+    "price": 20.99, 
+    "category": "gömlek",
+    "image": "/src/assets/ürün1.jpg"
+   
+  },
+  {
+    "id": 2,
+    "name": "Gömlek",
+    "description": "lsakjfldjfldj",
+    "price": 30.49,
+    "category": "pantolon",
+    "image": "/src/assets/ürün1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Gömlek",
+    "description": "lsakjfldjfldj",
+    "price": 15.75,
+    "category": "ayakkabı",
+    "image": "/src/assets/ürün1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Gömlek",
+    "description": "lsakjfldjfldj",
+    "price": 20.99, 
+    "category": "takı",
+    "image": "/src/assets/ürün1.jpg"
+   
+  },
+  {
+    "id": 5,
+    "name": "Gömlek",
+    "description": "lsakjfldjfldj",
+    "price": 30.49,
+    "image": "/src/assets/ürün1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Gömlek",
+    "description": "lsakjfldjfldj",
+    "price": 15.75,
+    "image": "/src/assets/ürün1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Gömlek",
+    "description": "lsakjfldjfldj",
+    "price": 20.99, 
+    "image": "/src/assets/ürün1.jpg"
+   
+  },
+  {
+    "id": 8,
+    "name": "Gömlek",
+    "description": "lsakjfldjfldj",
+    "price": 30.49,
+    "image": "/src/assets/ürün1.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Gömlek",
+    "description": "lsakjfldjfldj",
+    "price": 15.75,
+    "image": "/src/assets/ürün1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Gömlek",
+     "description": "lsakjfldjfldj",
+    "price": 20.99, 
+    "image": "/src/assets/ürün1.jpg"
+   
+  },
+  {
+    "id": 11,
+    "name": "Gömlek",
+     "description": "lsakjfldjfldj",
+    "price": 20.99, 
+    "image": "/src/assets/ürün1.jpg"
+   
+  },  {
+    "id": 12,
+    "name": "Gömlek",
+     "description": "lsakjfldjfldj",
+    "price": 20.99, 
+    "image": "/src/assets/ürün1.jpg"
+   
+  }
+]
